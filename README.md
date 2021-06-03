@@ -6,5 +6,6 @@
 > 古橋研究室　ユースマッパーズAGU　所属
 # Activities  
 ### Hackathon  
-* June 
+* June [横瀬町ウォーキングコース検討]  
+https://geojson.io/#map=15/35.9858/139.1161
 
