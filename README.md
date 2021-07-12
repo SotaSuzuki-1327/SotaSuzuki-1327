@@ -7,6 +7,6 @@
 # Activities  
 ### Hackathon  
 * June [横瀬町ウォーキングコース検討]  
-https://geojson.io/#map=15/35.9858/139.1161
-https://docs.google.com/presentation/d/14i2-wNWoMi3jOfbahqP8d4qBJ2N-r33V2lAJy0jjefw/edit#slide=id.gdf2046bad0_0_0 
+*https://geojson.io/#map=15/35.9858/139.1161
+*https://docs.google.com/presentation/d/14i2-wNWoMi3jOfbahqP8d4qBJ2N-r33V2lAJy0jjefw/edit#slide=id.gdf2046bad0_0_0 
 * July 
