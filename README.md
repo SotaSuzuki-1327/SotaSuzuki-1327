@@ -1,4 +1,9 @@
-# Sota Suzuki @SotaSuzuki-1327  
+# Sota Suzuki @SotaSuzuki-1327
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SotaSuzuki-1327&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # About Me
 > Senior [GSC](https://www.gsc.aoyama.ac.jp/) student, Aoyama Gakuin University  
 > Member of [Youth Mappers AGU](https://github.com/furuhashilab/youthmappers4agu), [Furuhashi Labs.](https://github.com/furuhashilab)  
