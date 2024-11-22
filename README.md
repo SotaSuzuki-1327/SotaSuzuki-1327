@@ -12,10 +12,18 @@
 
 
 # About Me
-> Senior [GSC](https://www.gsc.aoyama.ac.jp/) student, Aoyama Gakuin University  
+> 学歴 / Academic Background
+> Graduated [GSC](https://www.gsc.aoyama.ac.jp/) student, Aoyama Gakuin University  
 > Member of [Youth Mappers AGU](https://github.com/furuhashilab/youthmappers4agu), [Furuhashi Labs.](https://github.com/furuhashilab)  
-> 青山学院大学　地球社会共生学部　4年  
+> 青山学院大学　地球社会共生学部　卒業  
 > 古橋研究室　青学ユースマッパーズ　所属
+
+>現在 / Now
+>[ヤマト運輸株式会社](https://www.kuronekoyamato.co.jp/) イノベーション推進部
+>[Yamato Transport.co.ltd](https://www.kuronekoyamato.co.jp/en/) Innovation Dept.
+>[KURONEKO Innovation Fund](https://www.kuroneko-v.com/)の運営メンバー
+>Member of KURONEKO innovtion fund management team
+
 # Activities  
 
 ### 2021年度ゼミ論
