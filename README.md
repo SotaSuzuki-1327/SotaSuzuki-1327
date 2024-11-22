@@ -18,11 +18,11 @@
 > 青山学院大学　地球社会共生学部　卒業  
 > 古橋研究室　青学ユースマッパーズ　所属
 
->現在 / Now
->[ヤマト運輸株式会社](https://www.kuronekoyamato.co.jp/) イノベーション推進部
->[Yamato Transport.co.ltd](https://www.kuronekoyamato.co.jp/en/) Innovation Dept.
->[KURONEKO Innovation Fund](https://www.kuroneko-v.com/)の運営メンバー
->Member of KURONEKO innovtion fund management team
+> 現在 / Now
+> [ヤマト運輸株式会社](https://www.kuronekoyamato.co.jp/) イノベーション推進部
+> [Yamato Transport.co.ltd](https://www.kuronekoyamato.co.jp/en/) Innovation Dept.
+> [KURONEKO Innovation Fund](https://www.kuroneko-v.com/)の運営メンバー
+> Member of KURONEKO innovtion fund management team
 
 # Activities  
 
